@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giotheasy
 - 👀 I’m interested in data analytics, game development and economics.
-- 🌱 I’m currently learning Godot Engine, GDScript, Project Tracking
+- 🌱 I’m currently learning Godot Engine, GDScript, Project Tracking, Flask, Jinja2 and Android Studio Development
 - 💞️ I’m looking to collaborate on game development and data analysis
 - 📫 How to reach me ...
 
